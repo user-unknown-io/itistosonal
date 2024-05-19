@@ -8,7 +8,7 @@
 </h1>
 
 
-<p align="center" > 
+<h2 align="center" > 
   <samp style="font-szie:50px">
     <br>
       I am a part time python developer from <i><b>Jharkhand</b></i><br>
@@ -16,7 +16,7 @@
     <br>
     <br>
   </samp>
-</p>
+</h2>
 
 <p align="center">
 
@@ -33,9 +33,9 @@
  </a> 
  
 </p>
-<br />
 
-<!-- About Section -->
+<br/>
+
  
 ## 🚀 About Me
 
