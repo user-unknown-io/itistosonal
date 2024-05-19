@@ -29,7 +29,7 @@
 <br>
 
 <a href="https://monkeytype.com/profile/sonaltoppo" target="_blank" style="padding:12px;background:green">
-  <img src="img/monkeytype.svg" alt="alsiam" height="50" width="50"/>
+  <img src="src/img/monkeytype.svg" alt="alsiam" height="50" width="50"/>
  </a> 
  
 </p>
