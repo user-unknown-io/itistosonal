@@ -10,10 +10,8 @@
 
 <p align="center" > 
   <samp style="font-szie:50px">
-    <br>
       I am a part time python developer from <i><b>Jharkhand</b></i><br>
       Currently Learning <i><b>AI</b></i>
-    <br>
   </samp>
 </p>
 
