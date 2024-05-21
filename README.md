@@ -14,7 +14,6 @@
       I am a part time python developer from <i><b>Jharkhand</b></i><br>
       Currently Learning <i><b>AI</b></i>
     <br>
-    <br>
   </samp>
 </p>
 
@@ -64,7 +63,7 @@
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
   
-  <br/><br/><br/>
+  <br/>
 </div>
 
 <hr/>
