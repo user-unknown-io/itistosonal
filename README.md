@@ -51,7 +51,6 @@
 <samp>4. CSS</samp><br>
 <samp>5. AI (Currently Learning...)<samp><br>
 
-<br/>
 
 <hr/>
 
