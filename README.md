@@ -7,6 +7,7 @@
         </samp>
 </h1>
 
+<hr>
 
 <h2 align="center" > 
   <samp style="font-szie:50px">
