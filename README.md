@@ -7,7 +7,6 @@
         </samp>
 </h1>
 
-<hr>
 
 <h2 align="center" > 
   <samp style="font-szie:50px">
@@ -37,6 +36,7 @@
 
 <br/>
 
+<hr/>
  
 ## 🚀 About Me
 
@@ -45,7 +45,7 @@
 🌱 <samp>I'm currently Learning AI</samp><br>
 📫 <samp> How to reach me [Instagram](https://instagram.com/itistosonal)</samp><br>
 
-
+<hr/>
 
 ## 🛠 Skills
 
